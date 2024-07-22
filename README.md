@@ -6,9 +6,13 @@ If you are unsure about the rules of Sequence, they can be reviewed at [**https:
 
 # Getting Started
 
-Sequence is implemented as a Windows app that can be installed from [**https://github.com/SeqGamer/SequenceGameStates**](https://github.com/SeqGamer/SequenceGameStates).
+Sequence is implemented as a Windows app that can be installed from this website:
 
-From this page click on the file ‘SequenceSetup.zip’ and download it by clicking on the 'Download' icon. 
+[SeqGamer/SequenceSetup: Installation for SeqGamer Sequence (github.com)](https://github.com/SeqGamer/SequenceSetup)
+
+
+
+Scroll down on this page and click on the file ‘SequenceSetup.zip’, then download it by clicking on the 'Download' icon. 
 
 ![](media/2024-07-07-09-19-14-image.png)
 
