@@ -1,0 +1,328 @@
+2024-09-12 16:33:11,439 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 4 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,453 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  KC 8H 8C QS 8C
+2024-09-12 16:33:11,453 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 4 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,453 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  7S 8S 9S 10S QS
+2024-09-12 16:33:11,453 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 5 (supporting card in hand).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  8S 9S 10S QS KS
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 5 (supporting card in hand).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  9S 10S QS KS AS
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -1 by 8 to -1.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 7 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  10S QS KS AS 5C
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -1 by 8 to -1.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 7 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  QS KS AS 5C 2S
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -1 by 8 to -1.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 7 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NE_SW  10C QS 6C 3D 2C
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 30.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 14 to 44 (our color).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 49 (supporting card in hand).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NE_SW  QS 6C 3D 2C 6S
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 30.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 14 to 44 (our color).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 49 (supporting card in hand).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - CardScorePosition: W_E=7 NW_SE=4 N_S=7 NE_SW=49 Total=67
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - CardScore: bump up firstPosition.SequenceScore by 1 as ring count.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - 
+CardScorePosition: Score Ten Spades (4,8) :
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  3H 2H 7H 8C 10S
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 4 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  2H 7H 8C 10S 10C
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 4 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  9D 4S QC 9C 10S
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 2 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  4S QC 9C 10S 9C
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 2 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  AD 7S 8S 9S 10S
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 22 (our color).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  7S 8S 9S 10S QS
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 5 (supporting card in hand).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  8S 9S 10S QS KS
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 5 (supporting card in hand).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  9S 10S QS KS AS
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -2 by 8 to -2.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 7 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  10S QS KS AS 5C
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -2 by 8 to -2.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 7 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NE_SW  QC 10S 7C 5C 4D
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -1 by 8 to -1.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump 7 by 8 to 7.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 18 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NE_SW  10S 7C 5C 4D AH
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -1 by 8 to -1.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump 7 by 8 to 7.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 18 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - CardScorePosition: W_E=4 NW_SE=2 N_S=22 NE_SW=18 Total=46
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - CardScore: bump up firstPosition.SequenceScore by 1 as ring count.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - 
+CardScorePosition: Score Ten Spades (8,0) :
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  10S 10H QH KH AH
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  2D AS KS QS 10S
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 30.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 14 to 44 (our color).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 49 (supporting card in hand).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  AS KS QS 10S O
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 10 to 25 (corner).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 32 (our color).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 37 (supporting card in hand).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NE_SW  3H AH 8D 9H 10S
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 4 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - CardScorePosition: W_E=0 NW_SE=0 N_S=49 NE_SW=4 Total=53
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - CardScore: bump up secondPosition.SequenceScore by 0 as ring count.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - 
+CardScorePosition: Score Eight Diamonds (0,3) :
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  O 6D 7D 8D 9D
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 10 to 10 (corner).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  6D 7D 8D 9D 10D
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -1 by 8 to -1.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 7 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  7D 8D 9D 10D QD
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -1 by 8 to -1.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 7 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  8D 9D 10D QD KD
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump -1 by 8 to -1.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump 6 by 8 to 6.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 18 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  8D 3S KC 8H 8C
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  8D 2S AD QH KH
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - CardScorePosition: W_E=18 NW_SE=0 N_S=0 NE_SW=0 Total=18
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - CardScore: bump up firstPosition.SequenceScore by 0 as ring count.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - 
+CardScorePosition: Score Three Diamonds (3,0) :
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  3D 5H QD QH 10H
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 2 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  3D 6H 9D 2C 5D
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  O 5D 4D 3D 2D
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 10 to 10 (corner).
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 25.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 40.
+2024-09-12 16:33:11,454 [Thread: 1] DEBUG - OffensiveScore: bump up score by 14 to 54 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  5D 4D 3D 2D AS
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 30.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 14 to 44 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 49 (supporting card in hand).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  4D 3D 2D AS KS
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 22 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 27 (supporting card in hand).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  3D 2D AS KS QS
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 30.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 14 to 44 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 49 (supporting card in hand).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - CardScorePosition: W_E=2 NW_SE=0 N_S=54 NE_SW=0 Total=56
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - CardScore: bump up firstPosition.SequenceScore by 0 as ring count.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - 
+CardScorePosition: Score Three Diamonds (7,6) :
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  7D 6D 5D 4D 3D
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 0.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 8.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 6 to 29 because there are 3 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  6D 5D 4D 3D 2D
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 0.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 8.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump 0 by 8 to 0.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 6 to 29 because there are 3 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  5D 4D 3D 2D AS
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: return 700 because playing this card results in blocking a potential sequence.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  4D 3D 2D AS 7C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 0.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump 0 by 8 to 0.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump 8 by 8 to 8.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 6 to 29 because there are 3 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  QD KH 4H 4C 3D
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  KH 4H 4C 3D 4C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  4H 4C 3D 4C 2S
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 22 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  8H 7H 6H 5C 3D
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: return 700 because playing this card results in blocking a potential sequence.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  7H 6H 5C 3D 3C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 0.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 8.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 16.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 6 to 29 because there are 3 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  6H 5C 3D 3C 4S
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 0.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: opponent's board square has the potential to be a sequence so bump potentialScore by 8 to 8.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 18 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=NE_SW  10C QS 6C 3D 2C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 30.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 14 to 44 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 49 (supporting card in hand).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=NE_SW  QS 6C 3D 2C 6S
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 30.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 14 to 44 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 49 (supporting card in hand).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - CardScorePosition: W_E=700 NW_SE=22 N_S=700 NE_SW=49 Total=1471
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - CardScore: bump up secondPosition.SequenceScore by 2 as ring count.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - 
+CardScorePosition: Score Six Clubs (8,9) :
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  2C 3C 4C 5C 6C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 22 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 27 (supporting card in hand).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  2H 6H 6C AS 6C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 4 to 4 because there are 2 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  10C 9C 8C 7C 6C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  9C 8C 7C 6C O
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 10 to 10 (corner).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - CardScorePosition: W_E=27 NW_SE=4 N_S=10 NE_SW=0 Total=41
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - CardScore: bump up firstPosition.SequenceScore by 0 as ring count.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - 
+CardScorePosition: Score Four Clubs (8,7) :
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  KH AH 2C 3C 4C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 22 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  AH 2C 3C 4C 5C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 22 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=W_E  2C 3C 4C 5C 6C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 22 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 27 (supporting card in hand).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  KH 4H 4C 3D 4C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 2 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=NW_SE  4H 4C 3D 4C 2S
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 15 to 15.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump up score by 7 to 22 (our color).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - OffensiveScore: bump score by 5 to 27 (supporting card in hand).
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  8C 7C 6C 2D 4C
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 2 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - ScoreVector: orientation=N_S  7C 6C 2D 4C 3S
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - DefensiveScore: bump up potentialScore by 2 to 2 because there are 1 squares in the sequence with the same color.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - CardScorePosition: W_E=27 NW_SE=27 N_S=2 NE_SW=0 Total=56
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - CardScore: bump up firstPosition.SequenceScore by 1 as ring count.
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG - Scoring:
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -   Ace Spades (5,0) 56
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [AS 8H 7D KH 6S]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     2 [AS 8H 7D KH 6S]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [5D 4D 3D 2D AS] 5D Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [5D 4D 3D 2D AS] 2D Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     14 [5D 4D 3D 2D AS]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [5D 4D 3D 2D AS] 3D Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [4D 3D 2D AS KS] 2D Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     7 [4D 3D 2D AS KS]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [4D 3D 2D AS KS] 3D Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [3D 2D AS KS QS] 2D Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [3D 2D AS KS QS] QS Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     14 [3D 2D AS KS QS]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [3D 2D AS KS QS] 3D Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [2D AS KS QS 10S] 2D Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [2D AS KS QS 10S] QS Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     14 [2D AS KS QS 10S]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [2D AS KS QS 10S] 10S Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [AS KS QS 10S O] QS Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     10 [AS KS QS 10S O] O Player.Weight.OffensiveCorner
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     7 [AS KS QS 10S O]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [AS KS QS 10S O] 10S Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     0 [] AS Ring Count (1st position)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -   Queen Spades (5,8) 68
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [4H 5H 6H 7C QS]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     2 [4H 5H 6H 7C QS]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [5H 6H 7C QS 9C]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     2 [5H 6H 7C QS 9C]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     4 [3S KC 8H 8C QS]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     4 [KC 8H 8C QS 8C]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [7S 8S 9S 10S QS] 10S Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [8S 9S 10S QS KS] 10S Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [9S 10S QS KS AS]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     2 [9S 10S QS KS AS]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [10S QS KS AS 5C]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     2 [10S QS KS AS 5C]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [QS KS AS 5C 2S]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     2 [QS KS AS 5C 2S]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [10C QS 6C 3D 2C] 6C Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [10C QS 6C 3D 2C] 2C Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     14 [10C QS 6C 3D 2C]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [10C QS 6C 3D 2C] 3D Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [QS 6C 3D 2C 6S] 6C Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [QS 6C 3D 2C 6S] 2C Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     14 [QS 6C 3D 2C 6S]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [QS 6C 3D 2C 6S] 3D Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     1 [] QS Ring Count (1st position)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -   Ten Spades (8,0) 53
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [2D AS KS QS 10S] 2D Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [2D AS KS QS 10S] QS Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     14 [2D AS KS QS 10S]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [2D AS KS QS 10S] AS Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     15 [AS KS QS 10S O] QS Player.Weight.Offensive
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     10 [AS KS QS 10S O] O Player.Weight.OffensiveCorner
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     7 [AS KS QS 10S O]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     5 [AS KS QS 10S O] AS Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     4 [3H AH 8D 9H 10S]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     0 [] 10S Ring Count (2nd position)
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -   Eight Diamonds (0,3) 18
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     10 [O 6D 7D 8D 9D] O Player.Weight.OffensiveCorner
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [6D 7D 8D 9D 10D]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     2 [6D 7D 8D 9D 10D]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [7D 8D 9D 10D QD]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     2 [7D 8D 9D 10D QD]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [8D 9D 10D QD KD]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     8 [8D 9D 10D QD KD]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     4 [8D 9D 10D QD KD]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,455 [Thread: 1] DEBUG -     0 [] 8D Ring Count (1st position)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -   Three Diamonds (7,6) 1473
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [7D 6D 5D 4D 3D]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [7D 6D 5D 4D 3D]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [7D 6D 5D 4D 3D]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     6 [7D 6D 5D 4D 3D]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [6D 5D 4D 3D 2D]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [6D 5D 4D 3D 2D]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [6D 5D 4D 3D 2D]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     6 [6D 5D 4D 3D 2D]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [4D 3D 2D AS 7C]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [4D 3D 2D AS 7C]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [4D 3D 2D AS 7C]  Player.Weight.Defensive kill potential sequence 2nd side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     6 [4D 3D 2D AS 7C]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [4H 4C 3D 4C 2S] 4C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     7 [4H 4C 3D 4C 2S]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [7H 6H 5C 3D 3C]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [7H 6H 5C 3D 3C]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [7H 6H 5C 3D 3C]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     6 [7H 6H 5C 3D 3C]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [6H 5C 3D 3C 4S]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     8 [6H 5C 3D 3C 4S]  Player.Weight.Defensive kill potential sequence 1st side
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     4 [6H 5C 3D 3C 4S]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [10C QS 6C 3D 2C] 6C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [10C QS 6C 3D 2C] 2C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     14 [10C QS 6C 3D 2C]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     5 [10C QS 6C 3D 2C] QS Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [QS 6C 3D 2C 6S] 6C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [QS 6C 3D 2C 6S] 2C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     14 [QS 6C 3D 2C 6S]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     5 [QS 6C 3D 2C 6S] QS Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     2 [] 3D Ring Count (2nd position)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -   Six Clubs (8,9) 41
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [2C 3C 4C 5C 6C] 2C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     7 [2C 3C 4C 5C 6C]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     5 [2C 3C 4C 5C 6C] 4C Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     4 [2H 6H 6C AS 6C]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     10 [9C 8C 7C 6C O] O Player.Weight.OffensiveCorner
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     0 [] 6C Ring Count (1st position)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -   Four Clubs (8,7) 57
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [KH AH 2C 3C 4C] 2C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     7 [KH AH 2C 3C 4C]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [AH 2C 3C 4C 5C] 2C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     7 [AH 2C 3C 4C 5C]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [2C 3C 4C 5C 6C] 2C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     7 [2C 3C 4C 5C 6C]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     5 [2C 3C 4C 5C 6C] 6C Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     2 [KH 4H 4C 3D 4C]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     15 [4H 4C 3D 4C 2S] 4C Player.Weight.Offensive
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     7 [4H 4C 3D 4C 2S]  potentialSequenceCount * Player.Weight.ColorCountBoost (our color)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     5 [4H 4C 3D 4C 2S] 3D Player.Weight.OffensiveCardInSequenceVector (supporting card in hand)
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     2 [8C 7C 6C 2D 4C]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     2 [7C 6C 2D 4C 3S]  blueCount * 2 to account for number of squares of same color
+2024-09-12 16:33:11,456 [Thread: 1] DEBUG -     1 [] 4C Ring Count (1st position)
